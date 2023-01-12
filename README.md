@@ -89,4 +89,3 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator) 
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop) 
 <h2> <img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-stats.png" /><i> GitHub Stats :</i></h2>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=ARIYAN+AMHED+AKASH;MY+LOVE+ALLHA;KING+OFF+SEX%3A)+BRAND;FUCK+U+BBY;It's+A+SEX+BRAND)](https://git.io/typing-svg)
